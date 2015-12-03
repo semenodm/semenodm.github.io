@@ -1,10 +1,3 @@
----
-layout: nil
----
-{% include styles.css%}
-{% include ie.css %}
-{% include normalize.css %}
-
 /*
    Copyright 2014 GitHub Inc.
 
