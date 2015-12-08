@@ -1,6 +1,6 @@
 ---
 layout: post
-coments: true
+comments: true
 title: Crunching Apache Camel Netty Component
 tags:
 - camel
