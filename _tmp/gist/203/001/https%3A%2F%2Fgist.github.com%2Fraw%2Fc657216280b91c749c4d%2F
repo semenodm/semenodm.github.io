@@ -1,0 +1,6 @@
+o: ActiveSupport::Cache::Entry:@valueI"dfrom("direct:start")
+                                         .to("netty:tcp://localhost:5051?textline=true&sync=false");
+
+                                 from("netty:tcp://localhost:5051?textline=true&sync=false")
+                                         //.delay(100)
+                                         .validate(body().isInstanceOf(String.class)):ET:@created_atf1449201726.803067:@expires_in0
