@@ -17,7 +17,7 @@ Beer is good but performance problem hasn't been solved, after first Goose Islan
 
 ![Drunk and Happy](/assets/2016-04-22.jpg)
 
-Having 3 beer score and barely hitting the right keys on laptop keypad we gave up and went home by train. We live in neighbour cities so we took the same train.
+Having 3 beer score and barely hitting the right keys on laptop keypad we gave up and went home by train. We live in neighbor cities so we took the same train.
 
 We've got 30% battery charge in laptop and an idea of performance improvement. On 5% of battery we've got correctness tests passed and JMH tests showed ~100% improvement. Drunk and happy we submitted everything on Coursera and bingo!!! 100% score on Coursera site.
 
