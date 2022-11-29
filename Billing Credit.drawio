@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T18:58:41.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Yrw0lbWljv2EZsAdrYlI" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T19:03:02.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="aVaJoqRgtY1mrkJTNBCl" type="github">
   <diagram id="5Arp5cl82ODD3DRJoKWW" name="Page-1">
     <mxGraphModel dx="1833" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9EwEPRciLkm7IWIQtFRq-1" value="Plan Switch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/328-Document_Invoice-128.png" vertex="1" parent="1">
-          <mxGeometry x="340" y="550" width="128" height="128" as="geometry" />
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="414" width="400" height="406" as="geometry" />
         </mxCell>
-        <mxCell id="9EwEPRciLkm7IWIQtFRq-2" value="Recurring Invoice" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/328-Document_Invoice-128.png" vertex="1" parent="1">
-          <mxGeometry x="740" y="540" width="128" height="128" as="geometry" />
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-1" value="Plan Switch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/328-Document_Invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="9EwEPRciLkm7IWIQtFRq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-3" target="9EwEPRciLkm7IWIQtFRq-7">
           <mxGeometry relative="1" as="geometry" />
@@ -22,14 +22,73 @@
         <mxCell id="9EwEPRciLkm7IWIQtFRq-5" value="Account&lt;br&gt;invoices Log" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/328-Document_Invoice-128.png" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="128" height="128" as="geometry" />
         </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-6" target="9EwEPRciLkm7IWIQtFRq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9EwEPRciLkm7IWIQtFRq-6" value="Billing Credit Reserve" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/48-Bank_safe-128.png" vertex="1" parent="1">
-          <mxGeometry x="590" y="-140" width="128" height="128" as="geometry" />
+          <mxGeometry x="550" y="-140" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-7" target="9EwEPRciLkm7IWIQtFRq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-7" target="9EwEPRciLkm7IWIQtFRq-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9EwEPRciLkm7IWIQtFRq-7" value="Mint Billing Credit" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="128" height="128" as="geometry" />
         </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-8" target="9EwEPRciLkm7IWIQtFRq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="-76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9EwEPRciLkm7IWIQtFRq-8" value="Remainder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
-          <mxGeometry x="320" y="10" width="128" height="128" as="geometry" />
+          <mxGeometry x="330" y="10" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-11" target="9EwEPRciLkm7IWIQtFRq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-11" target="9EwEPRciLkm7IWIQtFRq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-11" value="Billing Credit Locked" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="412" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-17" target="9EwEPRciLkm7IWIQtFRq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-17" value="Billing Credit Applied" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="412" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-19" value="Recurring Invoice" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-3/32/328-Document_Invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="658" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-22" target="9EwEPRciLkm7IWIQtFRq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-22" target="9EwEPRciLkm7IWIQtFRq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-22" value="Billing Credit Locked" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="420" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EwEPRciLkm7IWIQtFRq-24" target="9EwEPRciLkm7IWIQtFRq-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1054" y="658" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="722" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EwEPRciLkm7IWIQtFRq-24" value="Billing Credit Applied" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/174_Dollar_Coins_finance_money_Business-128.png" vertex="1" parent="1">
+          <mxGeometry x="990" y="420" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
