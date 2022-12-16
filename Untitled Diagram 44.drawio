@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T18:53:04.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="BgbgDcPqSfuQYGH6R0VS" type="github"><diagram id="R388rd5tL7N_0oUQrtu-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-16T16:41:56.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="zBIqW3hfbiLVje4fANVo" type="github">
+  <diagram id="Wp4JbfG4hUV3dGsi31Zz" name="Page-1">
+    <mxGraphModel dx="1833" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-3" value="Plan Switch Invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-1" value="Credit Amt&lt;br&gt;Invoice Id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6VQgVYhuKUvO1hmdQcg6-4" target="6VQgVYhuKUvO1hmdQcg6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-4" value="Last Billed Invoice for current Cycle" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1200" as="sourcePoint" />
+            <mxPoint x="1010" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-9" value="11/6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-10" value="10/6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-11" value="Pre Billed Invoice&lt;br&gt;sku = sku1&lt;br&gt;SubId = 1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="1220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6VQgVYhuKUvO1hmdQcg6-12" target="6VQgVYhuKUvO1hmdQcg6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-16" value="Submit for billing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VQgVYhuKUvO1hmdQcg6-14">
+          <mxGeometry x="0.2227" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-12" value="Pre Billed -&amp;gt; Billed Invoice&lt;br&gt;sku=sku1 =&amp;gt; sku = sku2&lt;br&gt;&lt;br&gt;SubId = 1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/invoice-128.png" vertex="1" parent="1">
+          <mxGeometry x="325" y="1220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-13" value="Action Plan Swithch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6VQgVYhuKUvO1hmdQcg6-15" target="6VQgVYhuKUvO1hmdQcg6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6VQgVYhuKUvO1hmdQcg6-15" target="6VQgVYhuKUvO1hmdQcg6-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1460" />
+              <mxPoint x="360" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-21" value="/paid sku2&lt;br&gt;subId1 =&amp;gt; subId2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6VQgVYhuKUvO1hmdQcg6-20">
+          <mxGeometry x="0.112" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-15" value="Billing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-17" value="PES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6VQgVYhuKUvO1hmdQcg6-19" value="sku1-&amp;gt;sku2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
