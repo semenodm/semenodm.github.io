@@ -1,19 +1,32 @@
-title: Купил костюм, а он высокий!
-email: sdo.semenov@google.com
-description: >
-  Из жизни околоайтишной
+title: Dmytro Obodowsky
+author: Dmytro Obodowsky
+description: "Backend engineering, AWS cost, and data systems — field notes."
+lang: en
 baseurl: ""
 url: "https://semenodm.github.io"
-twitter_username: semenodm
+
 github_username: semenodm
+linkedin_username: dmytro-obodowsky-7485984
+
+show_excerpts: true
 
 theme: minima
 markdown: kramdown
 permalink: date
+
+# minima 2.5 (github-pages) ships the classic skin only.
+# `auto` is a minima 3 option and is not read by this version.
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+
+header_pages:
+  - about.md
+
 plugins:
   - jekyll-feed
-  - jekyll-gist
   - jekyll-seo-tag
+
 exclude:
   - vendor
   - archive
