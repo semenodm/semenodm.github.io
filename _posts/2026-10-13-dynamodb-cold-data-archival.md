@@ -177,7 +177,7 @@ The whole method is a loop: **find** (Optima, CUR) → **calculate** (the formul
 
 Optima tells you where the money is. This method is how you get it back.
 
-Want a second pair of eyes on your DynamoDB bill? I'm doing 3 free teardowns — leave a comment below.
+Want a second pair of eyes on your DynamoDB bill? [Request a free DynamoDB bill review](/reviews/).
 
 ---
 
