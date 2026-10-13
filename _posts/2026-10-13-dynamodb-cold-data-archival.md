@@ -182,6 +182,6 @@ Want a second pair of eyes on your DynamoDB bill? I'm doing 3 free teardowns —
 ---
 
 ### Sources (checked October 13, 2026, us-east-1 list prices)
-- DynamoDB pricing: https://aws.amazon.com/dynamodb/pricing/on-demand/
-- S3 pricing (storage classes, minimum object size, per-object overhead): https://aws.amazon.com/s3/pricing/
-- S3 price list API (us-east-1 offer, published October 12, 2026): https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonS3/current/us-east-1/index.json
+- [Amazon DynamoDB Pricing](https://aws.amazon.com/dynamodb/pricing/on-demand/)
+- [S3 Pricing](https://aws.amazon.com/s3/pricing/) (storage classes, minimum object size, per-object overhead)
+- [S3 price list API (us-east-1 offer, published October 12, 2026)](https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/AmazonS3/current/us-east-1/index.json)
